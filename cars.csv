@@ -1,0 +1,10 @@
+Car,Horsepower,Price,Image
+Hennessey Venom F5,1600,$1.6M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/hennessey-venom-f5.jpeg
+
+Koenigsegg Regera,1500,$2M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/Koenigsegg%20Regera.jpg
+Bugatti Chiron,1479, $3.4M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/bugatti.jpg
+NIO EP9,1341,1.48M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/NIO%20EP9.jpg
+Rimac Concept One,1224,$1M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/Rimac%20Concept%20One.jpg
+Aston Martin Valkyrie,1130,$3.2M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/Aston%20Martin%20Valkyrie.jpg
+McLaren P1 LM,986,$3.7M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/McLaren%20P1%20LM.jpg
+Ferrari LaFerrari,950,$1M,https://raw.githubusercontent.com/danielafoggiatto/Python-Data-Visualization-With-Bokeh-/refs/heads/main/Ferrari%20LaFerrari.jpg
